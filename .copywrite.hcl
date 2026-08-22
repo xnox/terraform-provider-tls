@@ -15,11 +15,8 @@ project {
     # examples used within documentation (prose)
     "examples/**",
 
-    # GitHub issue template configuration
-    ".github/ISSUE_TEMPLATE/*.yml",
-
-    # GitHub Actions workflow-specific configurations
-    ".github/labeler-*.yml",
+    ".github/**",
+    ".goreleaser.yml",
 
     # golangci-lint tooling configuration
     ".golangci.yml",

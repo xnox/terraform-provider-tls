@@ -1,10 +1,15 @@
 ---
 page_title: "Provider: TLS"
 description: |-
-  The TLS provider provides utilities for working with Transport Layer Security keys and certificates.
+  The xnox/ TLS provider provides utilities for working with Transport Layer Security keys and certificates - with ML-DSA support
 ---
 
-# TLS Provider
+# xnox/ Terraform Provider: TLS
+
+Adds support for ML-DSA keys:
+- https://github.com/hashicorp/terraform-provider-tls/pull/804
+
+Stock documentation below
 
 The TLS provider provides utilities for working with *Transport Layer Security*
 keys and certificates. It provides resources that
