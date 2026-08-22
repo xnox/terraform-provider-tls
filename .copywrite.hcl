@@ -17,6 +17,7 @@ project {
 
     ".github/**",
     ".goreleaser.yml",
+    ".go-version",
 
     # golangci-lint tooling configuration
     ".golangci.yml",
