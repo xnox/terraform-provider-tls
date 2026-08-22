@@ -1,7 +1,9 @@
 # xnox/ Terraform Provider: TLS
 
 Adds support for ML-DSA keys:
-- https://github.com/hashicorp/terraform-provider-tls/pull/804
+- Upstream pull request https://github.com/hashicorp/terraform-provider-tls/pull/804
+
+If you find this code useful, you can send me thanks via [Github sponsors](https://github.com/sponsors/xnox).
 
 Stock documentation below
 
